@@ -14,4 +14,19 @@ This web application is developed using Python and Flask framework to demonstrat
 - **User-Friendly Interface**: Responsive and accessible design for an optimal user experience.
 
 ## Project Structure
+# Climate Change Conference Web App
+
+This is a web application for the Climate Change Conference. It allows users to login and view information about climate change.
+
+## Installation
+
+1. Clone the repository.
+2. Create a virtual environment.
+3. Install dependencies from `requirements.txt`.
+4. Run the application with `python run.py`.
+
+## Usage
+
+- Navigate to `localhost:5000` in your web browser to access the application.
+- Login with valid credentials to view the homepage.
 
